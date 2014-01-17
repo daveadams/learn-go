@@ -15,3 +15,4 @@ I'm learning the Go programming language. This repo contains my experiments alon
     * `variables/` - Simple variable definition and usage
     * `constants/` - Simple usage of constants
     * `go-for/` - Various forms of for
+    * `go-if/` - Various ifs
