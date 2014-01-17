@@ -14,4 +14,4 @@ I'm learning the Go programming language. This repo contains my experiments alon
     * `values/` - Simple types and manipulation
     * `variables/` - Simple variable definition and usage
     * `constants/` - Simple usage of constants
-    * `for/` - Various forms of for
+    * `go-for/` - Various forms of for
