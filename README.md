@@ -16,3 +16,4 @@ I'm learning the Go programming language. This repo contains my experiments alon
     * `constants/` - Simple usage of constants
     * `go-for/` - Various forms of for
     * `go-if/` - Various ifs
+    * `switch/` - Switch statements
