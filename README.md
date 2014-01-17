@@ -8,3 +8,8 @@ I'm learning the Go programming language. This repo contains my experiments alon
     * `hello/` - Hello World
     * `newmath/` - Learn how to create a library
     * `use-newmath/` - Use a library
+
+* From [Go by Example](https://gobyexample.com)
+    * `hello2/` - Hello World
+    * `values/` - Simple types and manipulation
+    * `variables/` - Simple variable definition and usage
